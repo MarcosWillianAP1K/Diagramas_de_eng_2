@@ -173,7 +173,7 @@
                 </mxCell>
                 <mxCell id="100" value="1..1" style="resizable=0;html=1;align=left;verticalAlign=top;labelBackgroundColor=none;" parent="98" connectable="0" vertex="1">
                     <mxGeometry x="-1" relative="1" as="geometry">
-                        <mxPoint x="-20" y="49" as="offset"/>
+                        <mxPoint x="-80" y="-129" as="offset"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="101" value="" style="resizable=0;html=1;align=right;verticalAlign=bottom;labelBackgroundColor=none;" parent="98" connectable="0" vertex="1">
